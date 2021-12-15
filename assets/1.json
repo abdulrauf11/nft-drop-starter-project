@@ -1,0 +1,19 @@
+{
+  "name": "Bird Lion",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Gk4AJWzXPYsHTMoSZPz4bMUbjzCAoeiXnRQNsGAFhR8H",
+        "share": 100
+      }
+    ]
+  }
+}
